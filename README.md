@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# <strong>👋 Heyy Everyone</strong>
+I'm <strong>Drijon</strong>, born in <strong>South Tyrol </strong> and live in <strong>Italy</strong> to be precise in South Tyrol.
+I am a  <strong>Web Developer</strong> and <strong></strong> I self taught me the programming Language <strong>Python</strong> and with some help of a friend i created my first Discord Bot <strong>Not Public</strong>
+If you want to learn more about me, DM me or my [Join my Discord Server](https://discord.gg/Hfr2wdbGZC)
 <!--
 **Drijon7577/Drijon7577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
